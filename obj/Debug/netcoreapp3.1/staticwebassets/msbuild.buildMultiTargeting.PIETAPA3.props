@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PIETAPA3.props" />
+</Project>

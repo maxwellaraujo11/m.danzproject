@@ -1,0 +1,337 @@
+﻿@{
+    ViewData["Title"] = "Pagina Inicial";
+}
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - M. Danz Project</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style type="text/css">
+       
+
+       
+
+        body{
+
+            margin: 0;
+            padding: 0;
+    
+            background-image: url(../imagem/telainicio.jpg);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position:right center;
+            height: 100vh;
+            width: 100%;
+            background-color: black;
+        }
+        
+    
+
+        nav{
+            padding-top: 10%;
+        }
+
+        #cabeçalho{ 
+            text-align:left; 
+            color: rgb(40, 95, 173); 
+            font-size: 60px ; 
+            font-style: normal; 
+            
+        }
+
+         .corpo{
+            text-align: right;  
+            color: rgb(206, 55, 55); 
+            font-size: 35px;  
+            letter-spacing: 10px; 
+            cursor: pointer; 
+            text-align: left;
+            padding: 30px 80px 10px 0px;
+            justify-content: space-between; 
+        }
+
+        nav h5{ 
+            color: aliceblue; 
+            padding: 30px 80px 50px 0px;
+            letter-spacing: 2px ;  
+        }
+
+        .logar{
+            margin-left: 10%;
+        }
+
+        
+
+        button{
+           
+           text-transform: capitalize;  
+           font-style: normal; 
+           border-radius: 10px;
+           font-weight: 700;
+           border: 1px  rgb(40, 95, 173);
+           margin-left: 12%;
+           padding: 5px 20px 5px 20px;
+           background-color:  rgb(206, 55, 55) ;
+           color: aliceblue;
+           margin-bottom: 30vh;
+           border-bottom: solid 2px aliceblue;
+        }
+
+        /*------------------SEGUNDA PARTE DA TELA--------------------------------*/
+
+
+        .ap-aline {
+            display: flex;
+            justify-content: center;
+            color: aliceblue;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border-top: solid 2px aliceblue;
+            padding-top: 5%;
+            padding-bottom: 5%;
+           
+
+        }
+
+        
+
+        .texto-aline {
+            padding-top:  5%;
+            padding-right: 10%;
+        }
+
+
+         .ap-max {
+            display: flex;
+            justify-content: center;
+            color: aliceblue;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border-top: solid 2px aliceblue;
+            padding-top: 5%;
+            padding-bottom: 5%;
+           
+
+        }
+
+        
+
+        .texto-max {
+            padding-top: 5%;
+            padding-right: 10%;
+        }
+
+        .segunda-parte {
+           
+            background-image: url(../imagem/alinemdanz.jpg);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position: right center;
+            width: 100%;
+            height: 100vh;
+            border-top: solid 2px aliceblue;
+            
+        }
+        
+        .noticias {
+            background-color: transparent;
+            color: black;
+            margin-top: 5%;
+            opacity: 1;
+            
+        }
+     
+        button h5 {
+            margin-top: 10px;
+        }
+
+        .img-noticias {
+            border-radius: 10px;
+        }
+
+        .primeira-linha {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            column-gap: 20px;
+            margin-top: 2%;
+            padding-left: 10%;
+            
+             
+    
+        }
+
+        .primeira-linha h5{
+            color: aliceblue;
+        }
+
+
+        .segunda-linha {
+            display: flex;
+            justify-content: left;
+            column-gap: 20px;
+            margin-top: 2%;
+            padding-left: 10%;
+            
+            
+        }
+
+        .segunda-linha h5 {
+            color: aliceblue;
+        }
+
+        .titulo-noticia {
+            padding-top: 5%;
+            padding-left: 14%;
+            color: aliceblue;
+        }
+
+        
+    </style>
+
+</head>
+
+<body>
+
+
+    
+        <div>
+            <nav>
+                    
+                <h1 id="cabeçalho">
+                    <font color="white"> M.</font> Danz <font color="white"> Project </font>
+                        <h4 class="corpo"> A Dança que contagia</h4>
+                    </h1>
+                
+                
+                    
+                <h5> <p>Sejam bem vindos ao nosso site </p>
+                    
+                        Preparamos uma plataforma especial para você ter uma<br>
+                        melhor experiência conosco. Seja você estudante,<br> 
+                        amante ou simpatizante da dança. Aqui você conhecerá <br>
+                        nossas modalidades, terá acesso as aulas online, videos,<br>
+                        galerias de fotos, conhecerá cada um de nossos colaboradores<br>
+                        e ficará por dentro de tudo que acontece no mundo da dança.<br>
+                        Faça já seu cadastro e você receberá diariamente noticias <br>
+                        sobre aulas e sobre tudo relacionado a dança.
+
+                </h5>
+                    </div>
+            </nav>
+        </div>
+
+        <div class="logar">
+                
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="LoginAcesso" class="btn">
+                <button type="submit">Logar</button> 
+            </a>
+
+    <!-- Começando a segunda parte da pagina -->      
+
+
+
+        </div>
+  <!-- Apresentação de Aline -->
+
+   <section class="ap-aline">
+
+     <img class="perfil-foto" src="~/imagem/perfil.jpg" width="400" height="300">
+
+    <div class="texto-aline">
+     <h1>
+        Aline Ferreira 
+     </h1>
+     <br>
+     <h5>
+        Natural de Campina Grande na Paraíba, começou a trajetoria<br> 
+        na dança aos 10 anos de idade no curso do ballet da UEPB,<br> 
+        aos 15 anos passou a integrar o grupo de ballet da UEPB, <br> 
+        onde ganhou experiência, participando de diversas apresentações,<br>
+        intercambios, festivais de dança de nível nacional. <br>
+        Em 2017 aos 18 anos, foi selecianada para participar do Exchange<br>
+        Dance Program na Suíça, onde participou por mais dois anos, '2018, 2019'. <br>
+        Atualmente é Bailarina da Cia Municipal de João Pessoa e também professora <br>
+        de ballet e coreógrafa da Espaço de Artes Jazz&Cia Também em João Pessoa.
+
+     </h5>
+    </div> 
+
+     
+    
+   </section>  
+
+   <!-- Apresentação MAX -->  
+
+    <section class="ap-max">
+    <div class="texto-max">
+     <h1>
+        Maxwell Araujo 
+     </h1>
+     <br>
+     <h5>
+        Começou os estudos em ballet clássico e dança contemporânea<br> 
+        no ano de 2011 no curso do ballet da UEPB em Campina Grande<br> 
+        logo em seguida passou a integrar o grupo de ballet da UEPB, <br> 
+        onde ganhou experiência, participando de diversas apresentações,<br>
+        intercambios, festivais de dança de nível nacional. <br>
+        Em 2017 aos 18 anos, foi selecianada para participar do Exchange<br>
+        Dance Program na Suíça, onde participou por mais dois anos, '2018, 2019'. <br>
+        Atualmente é Bailarina da Cia Municipal de João Pessoa e também professora <br>
+        de ballet e coreógrafa da Espaço de Artes Jazz&Cia Também em João Pessoa.
+
+     </h5>
+    </div> 
+
+     <img class="perfil-foto" src="~/imagem/perfilmax.jpg" width="400" height="300"> 
+    
+   </section>  
+
+   <section class="segunda-parte">
+    <h2 class="titulo-noticia">Noticias</h2>
+        <div class="primeira-linha">
+            <div class="noticia-1">
+                <button class="noticias" type="submit">
+                    <img class="img-noticias" alt="foto com a lux" src="~/imagem/0586.jpg" width="200" height="200">
+                    <h5>Ensaio com LuxFotografia</h5>
+                </button>
+            </div>
+
+            <div class="noticia-1">
+                <button class="noticias" type="submit">
+                    <img class="img-noticias" alt="Exchange Program 2023" src="~/imagem/marcelos.jpg" width="200" height="200">
+                    <h5>Exchange Program 2023</h5>
+                </button>
+            </div>
+        
+        </div>
+
+        <div class="segunda-linha">
+        
+            <div class="noticia-1">
+                <button class="noticias" type="submit">
+                    <img class="img-noticias" alt="A princesa e o Sapo" src="~/imagem/4524.jpg" width="200" height="200">
+                    <h5>A Princesa e o sapo</h5>
+                </button>
+            </div>
+
+            <div class="noticia-1">
+                <button class="noticias" type="submit">
+                    <img class="img-noticias" alt="Ensaio com a Duoclick" src="~/imagem/duoclick.jpeg" width="200" height="200">
+                    <h5>Ensaio com a DuoClick</h5>
+                </button>
+            </div>
+
+        </div>    
+
+            
+      </div>   
+      </div>   
+     
+   </section>    
+    
+</body>
+</html>

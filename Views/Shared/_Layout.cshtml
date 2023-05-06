@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Pagina Inicial</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style type="text/css">
+       *{
+        padding: 0;
+        margin: 0;
+        font-style: normal;
+        box-sizing: border-box;
+        
+        }
+
+        body {
+            height: 100vh;
+            width: 100%;
+        }
+
+        .logo-foto {
+            border-radius: 50%;
+        }
+       
+        nav ul li{ 
+            list-style-type: none;
+            display:inline-table; 
+            text-indent: 0px; 
+            padding: 0px 1% 0px 5%;
+        }
+
+        nav ul li a{ 
+             
+            text-decoration: none; 
+            font-weight: bold; 
+            text-transform: capitalize;
+        }
+
+        nav ul li a:hover{
+            
+            transition: .4; }
+        
+       .container{
+        margin: auto;
+       }
+
+       button:hover{
+       transform: scale(1.1);
+       background-color: rgb(40, 95, 173);
+       }
+
+       .cadastrar-footer {
+        margin-left: 4%;
+       }
+     
+
+
+   
+   </style>
+</head>
+<body>
+    
+
+       <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow ">
+            <div class="container">
+                <a class="navbar-brand " asp-area="" asp-controller="Home" asp-action="Index"><img src="~/imagem/logo.jpg" alt="Logo M Danz" width=40 height=40 class="logo-foto"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Pagina Inicial</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="historia">Historia</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Videos</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contato">Contatos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Cadastro">Cadastre-se</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="LoginAcesso">Login</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    
+    
+
+     <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+
+
+
+
+   
+
+   
+
+
+    
+
+
+   <section class="">
+  <!-- Footer -->
+  <footer class="text-center text-white" style="background-color: #0a4275;">
+    <!-- Grid container -->
+    <div class="container p-4 pb-0">
+      <!-- Section: CTA -->
+      <section class="">
+        <p class="d-flex justify-content-center align-items-center">
+          <span class="me-3"><b>Registre-se</b></span>
+          
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Cadastro" class="btn btn-outline-light btn-rounded">
+                        <button class="cadastrar-footer" type="submit">Cadastrar</button> 
+                    </a>
+        </p>
+      </section>
+      <!-- Section: CTA -->
+    </div>
+    <!-- Grid container -->
+
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+     <b> © 2023 M. Danz Project</b>
+
+    </div>
+    <!-- Copyright -->
+  </footer>
+  <!-- Footer -->
+</section>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,88 @@
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.exe
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.deps.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.runtimeconfig.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.runtimeconfig.dev.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.Views.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.Views.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.csproj.AssemblyReference.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.AssemblyInfoInputs.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.AssemblyInfo.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.csproj.CoreCompileInputs.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.MvcApplicationPartsAssemblyInfo.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorAssemblyInfo.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorAssemblyInfo.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\staticwebassets\PIETAPA4MaxwellAraujo.StaticWebAssets.Manifest.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\staticwebassets\PIETAPA4MaxwellAraujo.StaticWebAssets.Pack.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PIETAPA4MaxwellAraujo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PIETAPA4MaxwellAraujo.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PIETAPA4MaxwellAraujo.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PIETAPA4MaxwellAraujo.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.TagHelpers.input.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.TagHelpers.output.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorCoreGenerate.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginAcesso.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Home\NossaHistoria.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorTargetAssemblyInfo.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorTargetAssemblyInfo.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.Views.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.csproj.CopyComplete
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\IPI\Auxilios\Maxwell UC04\Nova pasta\PIETAPA4.MaxwellAraujo\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.genruntimeconfig.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.exe
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.deps.json
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.runtimeconfig.json
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.runtimeconfig.dev.json
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.dll
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.pdb
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.Views.dll
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.Views.pdb
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.csprojAssemblyReference.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.AssemblyInfoInputs.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.AssemblyInfo.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorAssemblyInfo.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorAssemblyInfo.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.TagHelpers.input.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.TagHelpers.output.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorCoreGenerate.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginAcesso.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorTargetAssemblyInfo.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.RazorTargetAssemblyInfo.cs
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.Views.pdb
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.csproj.CopyComplete
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\staticwebassets\PIETAPA4MaxwellAraujo.StaticWebAssets.Manifest.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\staticwebassets\PIETAPA4MaxwellAraujo.StaticWebAssets.xml
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.dll
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.pdb
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\PIETAPA4MaxwellAraujo.genruntimeconfig.cache
+C:\Users\maxwe\OneDrive\Documentos\PIETAPA4.MaxwellAraujo - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs

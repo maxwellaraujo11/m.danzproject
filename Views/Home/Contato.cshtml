@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Contato</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style type="text/css">
+      *{
+        padding: 0%;
+        margin: 0%;
+        font-style: normal;
+        box-sizing: border-box;
+      }
+
+
+      #inicio{
+        padding: 30px 5% 30px 85%;  
+        text-transform: capitalize;  
+        font-style: normal; 
+        border-radius: 20px;
+      }
+
+      button{
+        background-color: rgb(206, 55, 55);
+        color: aliceblue;
+        text-decoration: none;
+        border: 1px solid transparent;
+        font-weight: bold;
+        border-radius: 10px;
+        transition: .4s;
+        padding: 5px 3px;
+        margin-top: 5%;
+     }
+
+      body{
+        background-image: url(../imagem/contato.jpg);
+        height: 100vh;  
+        background-size: cover; 
+        background-position: center center;
+        background-repeat: no-repeat;
+        
+      }
+
+      button:hover{
+        transform: scale(1.2);
+      }
+      
+      #cabeçalhocontato{
+        color: aliceblue;
+        text-align:left; 
+        font-size: 60px ;             
+        font-style: normal; 
+        padding: 50px 5% 6px;
+    
+      }
+
+      .link{
+        padding-top: 5%;
+        padding-left: 10%;
+      }
+
+
+      .link2{
+        padding-top: 5%;
+        padding-left: 10%;
+      }
+        
+      .link:hover{
+       
+        transition: .4; }
+
+      .corpocontato {
+        margin-bottom: 20vh;
+      }
+
+      .whats {
+        border-radius: 50%;
+      }
+
+    
+      
+    
+
+
+    </style>
+</head>
+<body>
+    <div class="corpocontato">
+            
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"><button type="submit">Voltar ao início</button></a>
+            
+            
+            <nav>
+            <h1 id="cabeçalhocontato">
+            Onde nos encontrar?
+            </h1>
+            <div class="link">
+                
+                <a href="https://instagram.com/m.danzconte?igshid=NmNmNjAwNzg=">
+                <img src= "~/imagem/instagram.png" width="60" height="60"> 
+            
+                </a>
+             </div>
+             <div class="link2">
+                <a href="https://www.facebook.com/profile.php?id=100069300161734">
+                    <img src="~/imagem/face.png" width="60" height="60">
+                </a>
+             </div>
+
+             <div class="link2">
+                <a href="https://web.whatsapp.com/">
+                    <img src="~/imagem/whatsap.jpg" width="60" height="60" class="whats">
+                </a>
+             </div>
+        </nav>
+    </div>
+</body>
+</html>

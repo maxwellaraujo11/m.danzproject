@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfsBTmGqVto5mkVQSBvFYTrqiBuluDgz5XuQv8o213GP/dkJlRgNYz/u3wnyPFFZmPcFBJJLtBxZ9pbVrldkBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxwe\\OneDrive\\Documentos\\PIETAPA4.MaxwellAraujo - Copia\\PIETAPA4MaxwellAraujo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxwe\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512",
+    "C:\\Users\\maxwe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

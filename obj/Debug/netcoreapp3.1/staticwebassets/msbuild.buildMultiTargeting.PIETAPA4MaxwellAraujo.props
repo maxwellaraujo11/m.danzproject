@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PIETAPA4MaxwellAraujo.props" />
+</Project>

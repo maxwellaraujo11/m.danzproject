@@ -1,0 +1,177 @@
+﻿
+@model LoginAcesso
+
+@{
+     ViewData["Title"] = "Login";
+}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Login</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style type="text/css">
+       
+
+       
+        
+
+        body{
+            background-image:url(../imagem/formulario.jpg); 
+            background-size: contain; 
+            background-position: right center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            width: 100vw;
+            background-color: black;
+        }
+
+      .informações { 
+            color: rgb(234, 233, 238);  
+            font-style: normal;  
+            letter-spacing: 1px; 
+            text-align:left;
+            margin: 6% 0% 10% 0;
+            
+          
+        }
+
+      
+
+        .informações h1{
+            color: rgb(40, 95, 173);
+        }
+        
+        .inicio{
+           padding-top: 5%;  
+           text-transform: capitalize;  
+           font-style: normal; 
+           border-radius: 10px;
+           padding: 5px 20px 5px 20px;
+        }
+
+        .butao{
+            color: rgb(206, 55, 55);  
+            text-align: left;
+            border: 1px solid white;
+            width: 35%;
+            padding-bottom: 10px;
+            border-radius: 10px;
+            padding-left: 5%;
+            
+            
+        }
+
+       
+        button{
+            background-color: rgb(206, 55, 55);
+            color: aliceblue;
+            text-decoration: none;
+            border: 1px solid transparent;
+            border-radius: 10px;
+            transition: .2s;
+            padding: 5px 3px;
+            font-weight: 700;
+            
+        }
+
+        button:hover{
+            transform: scale(1.2);
+            background-color: rgb(40, 95, 173);
+        }
+
+       .butao input{ 
+            border: 1px solid transparent;
+            border-radius: 10px;
+            color: blue;
+            padding-left: 15px;
+       }
+
+        .butao button{
+            border: 1px solid transparent;
+            border-radius: 10px;
+            padding: 5px 28px 5px 28px;
+        }
+
+       .butao label{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+       }
+
+       form h5{
+        color: aliceblue;
+        font-weight: 700;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       }
+       
+       form button a{
+        color: aliceblue;
+        padding: 5px 15px 5px 15px;
+       }
+
+       form button:hover{
+         background-color: rgb(40, 95, 173);
+         color: aliceblue;
+       }
+
+
+    </style>
+
+</head>
+<body>
+<nav>
+    
+   
+    <div class="informações">
+        <div class="inicio">
+           
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index" class="btn">
+                        <button type="submit">Voltar ao início</button> 
+                    </a>    
+        </div>      
+            <br>
+            <br>
+        <div class="butao">
+            <h1><b>Acessar Conta</b> </h1>
+            <br>
+        
+        
+            <form method="POST" asp-controller="Home" asp-action="LoginAcesso">
+                <label for="Login"><b>Login</b></label>
+                <input type="text" id="email">
+                <br>
+                <br>
+                <label for="text"><b>Senha</b></label>
+                <input type="password" id="password">
+                <br>
+                <br>
+            
+                <button type="submit" asp-area="" asp-controller="Home" asp-action="Index">Entrar</button>
+                <button type="reset">Limpar</button>
+                <br>
+                <br>
+
+                <h5> Ainda não tem conta?</h5>
+                <br>
+                <button><a class="" asp-area="" asp-controller="Home" asp-action="Cadastro">Quero me cadastrar</a></button>
+                
+            </form> 
+
+            <p>
+              @ViewBag.Mensagem
+            </p>
+            
+        </div>
+       <br>
+       <br>
+       
+       <h3> Em nosso site, você receberá <br> informações  sobre  modalidades, <br> aulas gratuitas e apresentões.</h3>
+       <br>
+       <br>
+
+    </div>
+</nav>
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PIETAPA4MaxwellAraujo.props" />
+</Project>
